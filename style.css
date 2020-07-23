@@ -1,0 +1,15 @@
+
+.center-box {
+  width: auto;
+  min-height: 240px;
+  background-color: #190080;
+  display: flex;
+  align-items: center;
+}
+.center-item {
+  width: 85px;
+  min-height: 85px;
+  background-color: #f9e4b6;
+  margin-left: auto;
+  margin-right: auto;
+}
